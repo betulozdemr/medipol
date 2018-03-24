@@ -1,1 +1,4 @@
-maven
+/target/
+.classpath
+.project
+*.prefs
